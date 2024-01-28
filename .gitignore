@@ -1,4 +1,7 @@
 ﻿node_modules
 rotas-http/db/app.db
-
+rotas-http/db/test.db
 .env
+.env.test
+
+rotas-http/build
